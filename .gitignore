@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Bases de dados de imagens (muito grandes, nao versionar)
+# Comente as linhas abaixo se quiser commitar as imagens
+treino/
+teste/
+Base de Dados - Meses do Ano/
