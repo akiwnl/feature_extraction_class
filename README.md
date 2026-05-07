@@ -5,9 +5,8 @@
 **Instituição:** UTFPR – Campus Campo Mourão – DACOM
 **Entrega:** 04/05/2026
 
-**Aluno(a):** _<preencher: nome completo>_
-**RA:** _<preencher>_
-**Dupla (se houver):** _<preencher ou remover>_
+**Aluno(a):** Kaike Carvalho
+**Dupla:** Sergio Murilo
 
 ---
 
